@@ -23,7 +23,7 @@ That data showed there are 10 chemistry, 67 economics, 23 statistics and analyti
 
 Clearly, a numerous amount of majors present within the course. Not all would fit on the graph comfortably so I separated them into groups before the graph below was constructed. Stem contains chemistry, neuroscience, mathematics, biology, biostatistics, physics, and biomedical engineering. Business contains economics, statistics and analytics, business, public policy, and management and society. Soft Science contains psychology, political science, peace war and defense, and asian studies. Environment contains environmental science/studies, earth science, environmental health studies, and geology. Computer contains information science, data science, applied science, and computer science. Media contains media and journalism, english, advertising and PR, communications, and sports administration. Health contains nursing, medical anthropology, exercise and sports science, HPM, health policy and management, human development and family science, and nutrition. Art contains studio art, and dramatic art. Undecidied contains undecided, N/A, and interdisciplinary studies. 
 
-![alt text](image.png)
+<seaborn.axisgrid.FacetGrid at 0x7125c810dc70>
 
 Those groups may be slightly biased by personal opinion however what was clear was that there was an overwhelming amount of majors specifically stem and business-based majors as compared to computer-based majors. This stands that examples outside of computer science may be more beneficial due to this large amount of different majors. 
 
@@ -31,7 +31,7 @@ Those groups may be slightly biased by personal opinion however what was clear w
 
 As we just analyzed there are many majors within this course. However, that doesn't yet eliminate the chance that even with the large amount of majors, there may be many individuals with experience who don't mind the computer-based examples used within the comp 110 course. Thus I used the survey data once more to sort out the individuals into categories used with the survey of experience spanning none to less than one month, 2-6 months, 7-12 months, 1-2 years, and over two years. 
 
-![alt text](image-1.png)
+
 
 Once again, a large overwhelming amount of individuals within the course displayed none to less than one month of coding experience. Even the second highest group, 2-6 months did not even reach half of the majority. 
 
@@ -39,7 +39,7 @@ Once again, a large overwhelming amount of individuals within the course display
 
 My final analysis centered around the future of this course. If people could recognize computer science as important in other aspects even with examples only being computer science based. I analyzed survey data as people ranked from 1-7 on their interest in the connections between computer science and other fields. 
 
-![alt text](image-2.png)
+
 
 Thankfully, there was a large amount of people who ranked 5 in this displaying they do have interest and that examples in class did inspire them to think outside the computer science field, yet there were still numerous amounts of people within the 4 to 3 interest, which I believe through more broadened examples that tide could flip to 6 or 7. 
 
